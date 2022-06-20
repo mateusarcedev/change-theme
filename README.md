@@ -35,7 +35,7 @@
 # Clonar o repositório
 $ git clone https://github.com/mateusarcedev/change-theme
 # Entrar no diretório
-$ cd devtips
+$ cd change-theme
 ```
 
 ---
